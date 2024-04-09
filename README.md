@@ -82,8 +82,3 @@ Swagger: https://lighthouse1.site
 |<img width="150" alt="스크린샷 2024-04-09 오후 5 13 56" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/1aa8bebb-674e-4169-a943-427611c26d15">|<img width="150" alt="스크린샷 2024-04-09 오후 5 15 13" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/d0755e07-c7c3-4130-8816-64509c5ff6e9">|테스트3|
 |[202014039 인상진](https://github.com/sangjin6439)|[202212025 김영현](https://github.com/202212025)|[ 장대영](https://github.com/hururu1234)|
 
-인상진: 팀장, Server개발자
-
-장대영: App개발자
-
-김영현: wep개발자
