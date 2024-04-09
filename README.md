@@ -19,22 +19,24 @@ LightHouse를 통해서 학습에 시작점에 있는 학생들에게 조금이�
 
 ### 이용약관 
 LightHouse 이용약관과 레벨 가이드를 제공합니다
+
 <img width="350" alt="스크린샷 2024-04-09 오전 11 38 59" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/887d6c0c-34ec-4000-887c-3e5da9364124">
 <img width="350" alt="스크린샷 2024-04-09 오전 11 39 07" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/6618d37f-3a90-458b-a191-bbbf6bd92724">
 
 ### 문제와 제출
 학년과 목차별로 다양한 문제들이 있고 문제를 풀며 답을 맞혀볼 수 있습니다. 
 
-<img width="300" alt="스크린샷 2024-04-09 오후 4 40 10" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/17b00239-c5d6-48d5-997d-020364b0ce18">
-<img width="300" alt="스크린샷 2024-04-09 오후 4 39 58" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/33cb9257-db5d-48b8-94f1-841d6965236b">
+<img width="350" alt="스크린샷 2024-04-09 오후 4 40 10" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/17b00239-c5d6-48d5-997d-020364b0ce18">
+<img width="350" alt="스크린샷 2024-04-09 오후 4 39 58" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/33cb9257-db5d-48b8-94f1-841d6965236b">
 
 ### 게시판
 여러 가지 의견을 내며 소통의 장을 만들기 위해 게시판 기능을 추가했습니다.
 
 많은 좋아요를 받은 게시물은 메인 페이지에 보여 더 많은 공유가 가능합니다.
 
-<img width="400" alt="스크린샷 2024-04-09 오전 11 39 18" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/6c1fc10e-a26b-4b35-b95c-73de477685c8">
-<img width="400" alt="스크린샷 2024-04-09 오후 4 45 08" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/2f0c9732-57be-4315-ad84-526dfefe1afd">
+<img width="700" alt="스크린샷 2024-04-09 오전 11 39 18" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/6c1fc10e-a26b-4b35-b95c-73de477685c8">
+
+<img width="700" alt="스크린샷 2024-04-09 오후 4 45 08" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/2f0c9732-57be-4315-ad84-526dfefe1afd">
 
 ### 학습 연계 프로그램
 나라에서 지원하는 무료 학습 연계 프로그램들을 소개하여 학생들에게 소개합니다. 공부뿐만 아니라 여러 예체능, 취미 활동도 있으니 학생들의 흥미를 이끌고 견문을 넓힐 수 있습니다.
@@ -74,6 +76,11 @@ Swagger: https://lighthouse1.site
 
 
 ## 👬 개발 팀원
+
+|BackEnd|FrontEnd(Web)|FrontEnd(App)|
+|------|---|---|
+|<img width="150" alt="스크린샷 2024-04-09 오후 5 13 56" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/1aa8bebb-674e-4169-a943-427611c26d15">|테스트2|테스트3|
+|[202014039 인상진](https://github.com/sangjin6439)|[202212025 김영현](https://github.com/202212025)|[ 장대영](https://github.com/hururu1234)|
 
 인상진: 팀장, Server개발자
 
