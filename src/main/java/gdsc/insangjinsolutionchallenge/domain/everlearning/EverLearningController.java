@@ -16,16 +16,16 @@ public class EverLearningController {
 
     @Autowired
     public EverLearningController(WebClient.Builder webClientBuilder) {
-        this.webClient = webClientBuilder.baseUrl("https://apis.data.go.kr/7010000").build();
+        this.webClient = webClientBuilder.baseUrl("https://apis.data.go.kr/7010000/everlearning").build();
     }
 
     @GetMapping("/everlearning/web/{pageNum}")
     public Mono<String> getLectureListWeb(@PathVariable("pageNum") int pageNum) {
         //인증키를 URL에서 사용이 가능하도록 인코딩 된 인증키 값
-        String serviceKey = "TXz9igaEZjaoO84jGvXH3IpSnKKgsb6HG6HhFL23kS1FEb%2Bnn1%2BbgvEBDssl0bnMe%2BRsG7Gv5HMZHKpWHofd4Q%3D%3D";
+        String serviceKey = "ZRL2X90NTGx7ghsp6xtRE2IN5vsE%2FCgQTXtn8ZKUfvPMknH%2F0xf%2FZ3FfOxo2K%2BOeF%2Fa7DN2Fk7XwrCaV%2BSdegA%3D%3D";
         String pageNo = String.valueOf(pageNum);
         String numOfRows = "10";
-        String url = String.format("/everlearning/getLectureList?ServiceKey=%s&pageNo=%s&numOfRows=%s",
+        String url = String.format("/getLectureList?ServiceKey=%s&pageNo=%s&numOfRows=%s",
                 serviceKey, pageNo, numOfRows);
 
         return webClient.get()
@@ -37,10 +37,10 @@ public class EverLearningController {
     @GetMapping("/everlearning/app/{pageNum}")
     public Mono<String> getLectureListApp(@PathVariable("pageNum") int pageNum) {
         //인증키를 URL에서 사용이 가능하도록 인코딩 된 인증키 값
-        String serviceKey = "TXz9igaEZjaoO84jGvXH3IpSnKKgsb6HG6HhFL23kS1FEb%2Bnn1%2BbgvEBDssl0bnMe%2BRsG7Gv5HMZHKpWHofd4Q%3D%3D";
+        String serviceKey = "ZRL2X90NTGx7ghsp6xtRE2IN5vsE%2FCgQTXtn8ZKUfvPMknH%2F0xf%2FZ3FfOxo2K%2BOeF%2Fa7DN2Fk7XwrCaV%2BSdegA%3D%3D ";
         String pageNo = String.valueOf(pageNum);
-        String numOfRows = "30";
-        String url = String.format("/everlearning/getLectureList?ServiceKey=%s&pageNo=%s&numOfRows=%s",
+        String numOfRows = "12";
+        String url = String.format("/getLectureList?ServiceKey=%s&pageNo=%s&numOfRows=%s",
                 serviceKey, pageNo, numOfRows);
 
         return webClient.get()
