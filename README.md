@@ -40,7 +40,7 @@ LightHouse 이용약관과 레벨 가이드를 제공합니다
 
 ### 학습 연계 프로그램 👀
 나라에서 지원하는 무료 학습 연계 프로그램들을 소개하여 학생들에게 소개합니다. 공부뿐만 아니라 여러 예체능, 취미 활동도 있으니 학생들의 흥미를 이끌고 견문을 넓힐 수 있습니다.
-
+<img width="350" alt="스크린샷 2024-04-10 오후 5 31 56" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/1ed0a3e3-db8d-43a6-bac3-0bff09083f9f">
 
 ## 개발 기간 🕰️ 
 
@@ -60,15 +60,44 @@ Swagger: https://lighthouse1.site
 <img width="500" alt="스크린샷 2024-04-09 오전 12 51 51" src="https://github.com/sangjin6439/In-Sang-Jin-Solution-Challenge/assets/62700860/02877a34-42dc-4935-8b37-5add3007830f">
 
 ## Stack 🛠️
+
+### Server 📕
+
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 
+
+### Web 📗
+
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+
+### Flutter 📘
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## ERD ⛁
 <img width="493" alt="ERD" src="https://github.com/sangjin6439/LightHouseGit/assets/62700860/34bef8a1-96c8-4541-9611-d40275fc771e">
@@ -79,6 +108,6 @@ Swagger: https://lighthouse1.site
 
 |BackEnd|FrontEnd(Web)|FrontEnd(App)|
 |------|---|---|
-|<img width="150" alt="스크린샷 2024-04-09 오후 5 13 56" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/1aa8bebb-674e-4169-a943-427611c26d15">|<img width="150" alt="스크린샷 2024-04-09 오후 5 15 13" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/d0755e07-c7c3-4130-8816-64509c5ff6e9">|테스트3|
-|[202014039 인상진](https://github.com/sangjin6439)|[202212025 김영현](https://github.com/202212025)|[ 장대영](https://github.com/hururu1234)|
+|<img width="150" alt="스크린샷 2024-04-09 오후 5 13 56" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/1aa8bebb-674e-4169-a943-427611c26d15">|<img width="150" alt="스크린샷 2024-04-09 오후 5 15 13" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/d0755e07-c7c3-4130-8816-64509c5ff6e9">|<img width="150" alt="스크린샷 2024-04-10 오후 5 28 22" src="https://github.com/sangjin6439/KotlinPractice/assets/62700860/4253d07a-088a-415f-851c-b4c66f82f873">|
+|[202014039 인상진](https://github.com/sangjin6439)|[202212025 김영현](https://github.com/202212025)|[ 202314132 장대영](https://github.com/hururu1234)|
 
