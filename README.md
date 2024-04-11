@@ -41,7 +41,7 @@ LightHouse 이용약관과 레벨 가이드를 제공합니다
 ### 학습 연계 프로그램 👀
 나라에서 지원하는 무료 학습 연계 프로그램들을 소개하여 학생들에게 소개합니다. 공부뿐만 아니라 여러 예체능, 취미 활동도 있으니 학생들의 흥미를 이끌고 견문을 넓힐 수 있습니다.
 
-<img width="350" alt="스크린샷 2024-04-11 오후 12 33 43" src="https://github.com/sangjin6439/LightHouseGit/assets/62700860/c6fa963a-6f1d-45fc-ad0d-2b5381505627">
+<img width="350" alt="스크린샷 2024-04-11 오후 12 36 05" src="https://github.com/sangjin6439/LightHouseGit/assets/62700860/41290535-27db-4139-9cb4-c9f104080316">
 
 
 ## 개발 기간 🕰️ 
