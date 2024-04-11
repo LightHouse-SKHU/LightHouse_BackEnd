@@ -24,7 +24,7 @@ spring:
     database-platform: org.hibernate.dialect.MySQL8Dialect
     defer-datasource-initialization: true # <- data.sql을 사용하여 Hibernate에 의해 생성된 스키마를 채우려고 true로 설정
     hibernate:
-      ddl-auto: create
+      ddl-auto: none
     properties:
       hibernate:
 #       이것까지 sql보이면 똑같은 sql 두번 보여서 가독성 떨어짐
