@@ -1,4 +1,5 @@
 # LightHouse 📖 
+
 https://light-house-web.vercel.app/
 
 ![메인 이미지](https://github.com/Solution-Challenge-LightHouse/.github/blob/main/1.jpg)
@@ -100,6 +101,7 @@ Swagger: https://lighthouse1.site
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 ## ERD ⛁
 <img width="493" alt="ERD" src="https://github.com/sangjin6439/LightHouseGit/assets/62700860/34bef8a1-96c8-4541-9611-d40275fc771e">
